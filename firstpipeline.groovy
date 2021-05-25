@@ -14,6 +14,7 @@ stages {
   stage('Deploy') {
     steps {
       echo 'This is my Deploy step'
+      echo 'This is first attempt'
     }
 }
   }
