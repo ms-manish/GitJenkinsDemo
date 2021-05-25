@@ -30,5 +30,6 @@ public class GitJenkinsDemo
             System.out.println("");
         }
         System.out.println("New Branch");
+        System.out.println("Process is completed");
     }
 }
