@@ -9,6 +9,7 @@ stages {
   stage('Test') {
     steps{
       echo 'This is my Test step'
+      echo 'this is my second Test step'
     }
   }
   stage('Deploy') {
