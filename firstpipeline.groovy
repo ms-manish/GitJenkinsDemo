@@ -15,6 +15,7 @@ stages {
     steps {
       echo 'This is my Deploy step'
       echo 'This is first attempt'
+      echo 'This is second attempt'
     }
 }
   }
